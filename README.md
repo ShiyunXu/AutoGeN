@@ -25,13 +25,13 @@ Example scripts are provided for each task in the `examples/` directory. The cor
 Install the package from PyPI:
 
 ```bash
-pip install genoptimizer
+pip install gen-optim
 ```
 
 Alternatively, install the latest version directly from GitHub:
 
 ```bash
-pip install git+https://github.com/ShiyunXu/AutoGeN
+pip install git+https://github.com/ShiyunXu/gen-optim
 ```
 
 
